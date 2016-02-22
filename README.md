@@ -1,7 +1,7 @@
 # adb-plus
 ###一个android adb 工具，使adb支持多设备选择功能~
 ##使用方法
-####[点击下载安装包](https://github.com/yuwenyishan/adb-plus/blob/master/screenshots/adb-p.msi)
+####[点击下载安装包](https://github.com/yuwenyishan/adb-plus/blob/master/screenshots/adb-p.msi?raw=true)
 
 安装完后再直接在cmd中运行adb-p
 
